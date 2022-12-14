@@ -1,6 +1,5 @@
 <html>
 <body>
-<h2> Hello World!</h2>
-  <h4> colour red<h4>
+<h2 style="color:green"> Hello World!</h2>
 </body>
 </html>
